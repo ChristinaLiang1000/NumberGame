@@ -22,9 +22,9 @@
 
 ### Leaderboards
 
->1: _ChristinaLiang_, 140;
+>1: _ChristinaLiang_, 90;
 >
->2: _EavanCai_, 130;
+>2: _EavanCai_, 80;
 
 ---
 
