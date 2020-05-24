@@ -22,9 +22,9 @@
 
 ### Leaderboards
 
->1: $ChristinaLiang$, 140;
+>1: _ChristinaLiang_, 140;
 >
->2: $EavanCai$, 130;
+>2: _EavanCai_, 130;
 
 ---
 
