@@ -4,10 +4,6 @@
 
 ---
 
-![](http://img4.imgtn.bdimg.com/it/u=912062065,2751575733&fm=26&gp=0.jpg)
-
----
-
 ### Rules
 
 >1: Each gamer chooses a number from 1 - 10000.
